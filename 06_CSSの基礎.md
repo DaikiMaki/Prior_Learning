@@ -99,9 +99,6 @@ sample2.htmlのp要素のコンテンツに、エンベッド方式で次のよ�
   </body>
 </html>
 ```
-[こちらから動画で作業を確認できます↓](https://youtu.be/soQbY7Skclw)
-
-[![こちらから動画で作業を確認できます](https://img.youtube.com/vi/soQbY7Skclw/0.jpg)](https://www.youtube.com/watch?v=soQbY7Skclw)
 
 ### **リンク**
 * link要素でCSSを参照する方法です。  
@@ -157,9 +154,6 @@ sample2.htmlのp要素のコンテンツに、リンク方式で次のようにC
 ```css
 p {color: green;}
 ```
-[こちらから動画で作業を確認できます↓](https://youtu.be/-1qdLuqBiOA)
-
-[![こちらから動画で作業を確認できます](https://img.youtube.com/vi/-1qdLuqBiOA/0.jpg)](https://www.youtube.com/watch?v=-1qdLuqBiOA)
 
 ## CSSの基本構成・構文
 基本的なCSSの書式ルールは、「 **セレクタ { プロパティ: 値; }** 」というシンプルなものです。  
